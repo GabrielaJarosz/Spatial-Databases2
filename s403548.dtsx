@@ -11,8 +11,9 @@
   DTS:LocaleID="1045"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="175"
-  DTS:VersionGUID="{3B37DF47-6AD6-4A99-837B-E6AE5B92C882}">
+  DTS:ProtectionLevel="0"
+  DTS:VersionBuild="239"
+  DTS:VersionGUID="{78197A7F-EBC0-4BFD-8638-B478733D9646}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -242,6 +243,66 @@
           DTS:ConnectRetryCount="1"
           DTS:ConnectRetryInterval="5"
           DTS:ConnectionString="Data Source=DESKTOP-IE07D0F\GJ0804;Initial Catalog=AdventureWorksDW2019;Provider=MSOLEDBSQL.1;Integrated Security=SSPI;Application Name=SSIS-Package-{4BA1DA06-80AF-4FA8-AB73-76B7E5E0BBEE}DESKTOP-IE07D0F\GJ0804.AdventureWorksDW2019 23;Auto Translate=False;" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[DESKTOP-IE07D0F\GJ0804.AdventureWorksDW2019 24]"
+      DTS:CreationName="OLEDB"
+      DTS:DTSID="{0C45015B-74B1-4E2B-9E78-C90B94DFF0C9}"
+      DTS:ObjectName="DESKTOP-IE07D0F\GJ0804.AdventureWorksDW2019 24">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectRetryCount="1"
+          DTS:ConnectRetryInterval="5"
+          DTS:ConnectionString="Data Source=DESKTOP-IE07D0F\GJ0804;Initial Catalog=AdventureWorksDW2019;Provider=MSOLEDBSQL.1;Integrated Security=SSPI;Application Name=SSIS-Package-{0C45015B-74B1-4E2B-9E78-C90B94DFF0C9}DESKTOP-IE07D0F\GJ0804.AdventureWorksDW2019 24;Auto Translate=False;" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[DESKTOP-IE07D0F\GJ0804.AdventureWorksDW2019 25]"
+      DTS:CreationName="OLEDB"
+      DTS:DTSID="{A5F816E2-3F96-4421-ACA8-F9EF70E4FB04}"
+      DTS:ObjectName="DESKTOP-IE07D0F\GJ0804.AdventureWorksDW2019 25">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectRetryCount="1"
+          DTS:ConnectRetryInterval="5"
+          DTS:ConnectionString="Data Source=DESKTOP-IE07D0F\GJ0804;Initial Catalog=AdventureWorksDW2019;Provider=MSOLEDBSQL.1;Integrated Security=SSPI;Application Name=SSIS-Package-{A5F816E2-3F96-4421-ACA8-F9EF70E4FB04}DESKTOP-IE07D0F\GJ0804.AdventureWorksDW2019 25;Auto Translate=False;" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[DESKTOP-IE07D0F\GJ0804.AdventureWorksDW2019 26]"
+      DTS:CreationName="OLEDB"
+      DTS:DTSID="{8BD9073A-4C87-4F58-8652-976F4E0BBCD0}"
+      DTS:ObjectName="DESKTOP-IE07D0F\GJ0804.AdventureWorksDW2019 26">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectRetryCount="1"
+          DTS:ConnectRetryInterval="5"
+          DTS:ConnectionString="Data Source=DESKTOP-IE07D0F\GJ0804;Initial Catalog=AdventureWorksDW2019;Provider=MSOLEDBSQL.1;Integrated Security=SSPI;Application Name=SSIS-Package-{8BD9073A-4C87-4F58-8652-976F4E0BBCD0}DESKTOP-IE07D0F\GJ0804.AdventureWorksDW2019 26;Auto Translate=False;" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[DESKTOP-IE07D0F\GJ0804.AdventureWorksDW2019 27]"
+      DTS:CreationName="OLEDB"
+      DTS:DTSID="{94226B1C-E47B-4A84-A07C-85D375FADC72}"
+      DTS:ObjectName="DESKTOP-IE07D0F\GJ0804.AdventureWorksDW2019 27">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectRetryCount="1"
+          DTS:ConnectRetryInterval="5"
+          DTS:ConnectionString="Data Source=DESKTOP-IE07D0F\GJ0804;Initial Catalog=AdventureWorksDW2019;Provider=MSOLEDBSQL.1;Integrated Security=SSPI;Application Name=SSIS-Package-{94226B1C-E47B-4A84-A07C-85D375FADC72}DESKTOP-IE07D0F\GJ0804.AdventureWorksDW2019 27;Auto Translate=False;" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[DESKTOP-IE07D0F\GJ0804.AdventureWorksDW2019 28]"
+      DTS:CreationName="OLEDB"
+      DTS:DTSID="{6C2780C7-7ADD-4CD2-93E2-16965B910148}"
+      DTS:ObjectName="DESKTOP-IE07D0F\GJ0804.AdventureWorksDW2019 28">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectRetryCount="1"
+          DTS:ConnectRetryInterval="5"
+          DTS:ConnectionString="Data Source=DESKTOP-IE07D0F\GJ0804;Initial Catalog=AdventureWorksDW2019;Provider=MSOLEDBSQL.1;Integrated Security=SSPI;Application Name=SSIS-Package-{6C2780C7-7ADD-4CD2-93E2-16965B910148}DESKTOP-IE07D0F\GJ0804.AdventureWorksDW2019 28;Auto Translate=False;" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
@@ -1014,8 +1075,68 @@
       </DTS:ObjectData>
     </DTS:ConnectionManager>
   </DTS:ConnectionManagers>
+  <DTS:PackageParameters>
+    <DTS:PackageParameter
+      DTS:CreationName=""
+      DTS:DataType="3"
+      DTS:DTSID="{31BE5B40-8C4A-4CC3-8469-B24E6753F7B4}"
+      DTS:ObjectName="JobNum">
+      <DTS:Property
+        DTS:DataType="3"
+        DTS:Name="ParameterValue">403548</DTS:Property>
+    </DTS:PackageParameter>
+  </DTS:PackageParameters>
   <DTS:Variables />
   <DTS:Executables>
+    <DTS:Executable
+      DTS:refId="Package\AUDIT_TABLE_END"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{9a5cb30f-9a47-4a7c-8b7a-57f73e17892d}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:ForceExecutionResult="0"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="AUDIT_TABLE_END"
+      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2022; © 2022 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+      DTS:ThreadHint="2">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{6C2780C7-7ADD-4CD2-93E2-16965B910148}"
+          SQLTask:SqlStatementSource="insert into AdventureWorksDW2019.dbo.AUDIT_TABLE (JobID, StartDT, EndDT, Rowcnt) &#xA;values &#xA;  (&#xA;    ?,&#xA;    null, &#xA;    getdate(), &#xA;    (&#xA;      select &#xA;        count(City) &#xA;      from &#xA;        [AdventureWorksDW2019].[dbo].[CSV_Customers]&#xA;    )&#xA;  )&#xA;" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask">
+          <SQLTask:ParameterBinding
+            SQLTask:ParameterName="0"
+            SQLTask:DtsVariableName="$Project::JobNum"
+            SQLTask:ParameterDirection="Input"
+            SQLTask:DataType="131"
+            SQLTask:ParameterSize="-1" />
+        </SQLTask:SqlTaskData>
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\AUDIT_TABLE_START"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{77232739-9d4f-418e-ad9c-4dbf89cae69e}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="AUDIT_TABLE_START"
+      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2022; © 2022 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+      DTS:ThreadHint="0">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{6C2780C7-7ADD-4CD2-93E2-16965B910148}"
+          SQLTask:SqlStatementSource="INSERT INTO AdventureWorksDW2019.dbo.AUDIT_TABLE&#xA;                         (JobID, StartDT, EndDT, Rowcnt)&#xA;VALUES   (?, getdate(), NULL,&#xA;                             (select &#xA;        count(City) &#xA;      from &#xA;        [AdventureWorksDW2019].[dbo].[CSV_Customers]&#xA;    )&#xA;  )&#xA;" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask">
+          <SQLTask:ParameterBinding
+            SQLTask:ParameterName="0"
+            SQLTask:DtsVariableName="$Project::JobNum"
+            SQLTask:ParameterDirection="Input"
+            SQLTask:DataType="131"
+            SQLTask:ParameterSize="-1" />
+        </SQLTask:SqlTaskData>
+      </DTS:ObjectData>
+    </DTS:Executable>
     <DTS:Executable
       DTS:refId="Package\cw2"
       DTS:CreationName="Microsoft.Pipeline"
@@ -8693,6 +8814,20 @@ EmailAddress = ? </property>
       </DTS:ObjectData>
     </DTS:Executable>
     <DTS:Executable
+      DTS:refId="Package\Send Mail Task"
+      DTS:CreationName="Microsoft.SendMailTask"
+      DTS:Description="Send Mail Task"
+      DTS:Disabled="True"
+      DTS:DTSID="{188EDADE-D282-4E2C-A921-C88B2CC714B1}"
+      DTS:ExecutableType="Microsoft.SendMailTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Send Mail Task"
+      DTS:TaskContact="Send Mail Task; Microsoft Corporation; SQL Server 2022; © 2022 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+      DTS:ThreadHint="1">
+      <DTS:Variables />
+      <DTS:ObjectData />
+    </DTS:Executable>
+    <DTS:Executable
       DTS:refId="Package\truncate"
       DTS:CreationName="Microsoft.ExecuteSQLTask"
       DTS:Description="Execute SQL Task"
@@ -8730,12 +8865,49 @@ EmailAddress = ? </property>
     <DTS:PrecedenceConstraint
       DTS:refId="Package.PrecedenceConstraints[Constraint 2]"
       DTS:CreationName=""
-      DTS:DTSID="{B38D4792-4EFB-484B-9430-6F0C2B6038FC}"
+      DTS:DTSID="{41A40F05-2D4E-4425-B153-AE8EDF07C514}"
       DTS:From="Package\cw7"
       DTS:LogicalAnd="True"
       DTS:ObjectName="Constraint 2"
-      DTS:To="Package\cw7_nieistnieje"
+      DTS:To="Package\cw7_nieistnieje" />
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint 3]"
+      DTS:CreationName=""
+      DTS:DTSID="{FD908A66-C52F-4489-A00C-80508BCC7CA7}"
+      DTS:From="Package\AUDIT_TABLE_START"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint 3"
+      DTS:To="Package\cw7" />
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint 4]"
+      DTS:CreationName=""
+      DTS:DTSID="{2E6C25C2-D6D1-40EC-ADF5-C183B5CA4C2B}"
+      DTS:From="Package\cw7_istnieje_plik"
+      DTS:ObjectName="Constraint 4"
+      DTS:To="Package\AUDIT_TABLE_END" />
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint 5]"
+      DTS:CreationName=""
+      DTS:DTSID="{48B38B74-1D96-4B3A-AD79-11149396C593}"
+      DTS:From="Package\cw7_nieistnieje"
+      DTS:ObjectName="Constraint 5"
+      DTS:To="Package\Send Mail Task"
       DTS:Value="1" />
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint 6]"
+      DTS:CreationName=""
+      DTS:DTSID="{94BD2CB5-56D2-4033-AFA7-BC046381638D}"
+      DTS:From="Package\cw7_istnieje_plik"
+      DTS:ObjectName="Constraint 6"
+      DTS:To="Package\Send Mail Task"
+      DTS:Value="1" />
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint 7]"
+      DTS:CreationName=""
+      DTS:DTSID="{413C75F4-6615-405C-907D-97EC1143DD59}"
+      DTS:From="Package\cw7_nieistnieje"
+      DTS:ObjectName="Constraint 7"
+      DTS:To="Package\AUDIT_TABLE_END" />
   </DTS:PrecedenceConstraints>
   <DTS:DesignTimeProperties><![CDATA[<?xml version="1.0"?>
 <!--This CDATA section contains the layout information of the package. The section includes information such as (x,y) coordinates, width, and height.-->
@@ -8748,46 +8920,46 @@ EmailAddress = ? </property>
     design-time-name="Package">
     <LayoutInfo>
       <GraphLayout
-        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        Capacity="32" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph" xmlns:s="clr-namespace:System;assembly=mscorlib">
         <NodeLayout
           Size="99,42"
           Id="Package\cw2"
-          TopLeft="141.33332222369,125.733331965274" />
+          TopLeft="141.33332222369,128.233331965274" />
         <NodeLayout
           Size="99,42"
           Id="Package\cw3"
-          TopLeft="270,124" />
+          TopLeft="270,126.5" />
         <NodeLayout
           Size="99,42"
           Id="Package\cw4"
-          TopLeft="398,123" />
+          TopLeft="398,125.5" />
         <NodeLayout
           Size="99,42"
           Id="Package\cw5"
-          TopLeft="519,123" />
+          TopLeft="519,125.5" />
         <NodeLayout
           Size="99,42"
           Id="Package\cw6"
-          TopLeft="643,128" />
+          TopLeft="643,130.5" />
         <NodeLayout
           Size="154,42"
           Id="Package\cw7_nieistnieje"
-          TopLeft="483.999997814496,282.3333333032" />
+          TopLeft="350.333333287802,217.700001319845" />
         <NodeLayout
           Size="119,42"
           Id="Package\truncate"
-          TopLeft="231.666654008959,277.333331404792" />
+          TopLeft="25.9999894822649,166.699999421437" />
         <NodeLayout
           Size="99,42"
           Id="Package\cw7"
-          TopLeft="364.99998005728,194.133331983355" />
+          TopLeft="159.333315530586,83.5" />
         <NodeLayout
           Size="157,42"
           Id="Package\cw7_istnieje_plik"
-          TopLeft="214.166664526694,349.599999891519" />
+          TopLeft="5.5,280.966667908164" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint]"
-          TopLeft="399.333313390613,236.133331983355">
+          TopLeft="193.666648863919,125.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -8821,18 +8993,198 @@ EmailAddress = ? </property>
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 1]"
-          TopLeft="291.916659267827,318.933331404792">
+          TopLeft="66.9999894822649,208.699999421437">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,30.6666684867275"
+              EndConnector="17.0000105177351,72.266668486727"
               Start="0,0"
-              End="0,23.1666684867275">
+              End="17.0000105177351,64.766668486727">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,23.1666684867275" />
+                    End="0,25.4819244572717" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,25.4819244572717"
+                    Point2="0,29.4819244572717"
+                    Point3="4,29.4819244572717" />
+                  <mssgle:LineSegment
+                    End="13.0000105177351,29.4819244572717" />
+                  <mssgle:CubicBezierSegment
+                    Point1="13.0000105177351,29.4819244572717"
+                    Point2="17.0000105177351,29.4819244572717"
+                    Point3="17.0000105177351,33.4819244572717" />
+                  <mssgle:LineSegment
+                    End="17.0000105177351,64.766668486727" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <NodeLayout
+          Size="155,42"
+          Id="Package\Send Mail Task"
+          TopLeft="220,502" />
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 6]"
+          TopLeft="84,322.966667908164">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="213.5,179.033332091836"
+              Start="0,0"
+              End="213.5,171.533332091836">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,85.516666045918" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,85.516666045918"
+                    Point2="0,89.516666045918"
+                    Point3="4,89.516666045918" />
+                  <mssgle:LineSegment
+                    End="209.5,89.516666045918" />
+                  <mssgle:CubicBezierSegment
+                    Point1="209.5,89.516666045918"
+                    Point2="213.5,89.516666045918"
+                    Point3="213.5,93.516666045918" />
+                  <mssgle:LineSegment
+                    End="213.5,171.533332091836" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="91.50865234375,94.516666045918,30.4826953125,9.7490234375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 5]"
+          TopLeft="427.333333287802,259.700001319845">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-105.333333287802,242.299998680155"
+              Start="0,0"
+              End="-105.333333287802,234.799998680155">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,139.89463523151" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,139.89463523151"
+                    Point2="0,143.89463523151"
+                    Point3="-4,143.89463523151" />
+                  <mssgle:LineSegment
+                    End="-101.333333287802,143.89463523151" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-101.333333287802,143.89463523151"
+                    Point2="-105.333333287802,143.89463523151"
+                    Point3="-105.333333287802,147.89463523151" />
+                  <mssgle:LineSegment
+                    End="-105.333333287802,234.799998680155" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-67.908014300151,148.89463523151,30.4826953125,9.7490234375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 2]"
+          TopLeft="223.999982197253,125.5">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="203.333351090549,92.200001319845"
+              Start="0,0"
+              End="203.333351090549,84.700001319845">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,33.7598414948073" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,33.7598414948073"
+                    Point2="0,37.7598414948073"
+                    Point3="4,37.7598414948073" />
+                  <mssgle:LineSegment
+                    End="199.333351090549,37.7598414948073" />
+                  <mssgle:CubicBezierSegment
+                    Point1="199.333351090549,37.7598414948073"
+                    Point2="203.333351090549,37.7598414948073"
+                    Point3="203.333351090549,41.7598414948073" />
+                  <mssgle:LineSegment
+                    End="203.333351090549,84.700001319845" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <NodeLayout
+          Size="195,42"
+          Id="Package\AUDIT_TABLE_START"
+          TopLeft="104.33332222369,7.13333198335499" />
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 3]"
+          TopLeft="205.333318877138,49.133331983355">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,34.366668016645"
+              Start="0,0"
+              End="0,26.866668016645">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,26.866668016645" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <NodeLayout
+          Size="254,42"
+          Id="Package\AUDIT_TABLE_END"
+          TopLeft="135.33332222369,342.133331983355" />
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 4]"
+          TopLeft="162.5,301.966667908164">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="99.8333222236899,40.166664075191"
+              Start="0,0"
+              End="99.8333222236899,32.666664075191">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="95.8333222236899,0" />
+                  <mssgle:CubicBezierSegment
+                    Point1="95.8333222236899,0"
+                    Point2="99.8333222236899,0"
+                    Point3="99.8333222236899,4" />
+                  <mssgle:LineSegment
+                    End="99.8333222236899,32.666664075191" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -8842,41 +9194,66 @@ EmailAddress = ? </property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package.PrecedenceConstraints[Constraint 2]"
-          TopLeft="429.666646723947,236.133331983355">
+          Id="Package.PrecedenceConstraints[Constraint 7]"
+          TopLeft="402.999999954469,259.700001319845">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="131.333351090549,46.200001319845"
+              EndConnector="-99.6666777307788,82.43333066351"
               Start="0,0"
-              End="131.333351090549,38.700001319845">
+              End="-99.6666777307788,74.93333066351">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,14.920875292024" />
+                    End="0,37.4230995966641" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,14.920875292024"
-                    Point2="0,18.920875292024"
-                    Point3="4,18.920875292024" />
+                    Point1="0,37.4230995966641"
+                    Point2="0,41.4230995966641"
+                    Point3="-4,41.4230995966641" />
                   <mssgle:LineSegment
-                    End="127.333351090549,18.920875292024" />
+                    End="-95.6666777307788,41.4230995966641" />
                   <mssgle:CubicBezierSegment
-                    Point1="127.333351090549,18.920875292024"
-                    Point2="131.333351090549,18.920875292024"
-                    Point3="131.333351090549,22.920875292024" />
+                    Point1="-95.6666777307788,41.4230995966641"
+                    Point2="-99.6666777307788,41.4230995966641"
+                    Point3="-99.6666777307788,45.4230995966641" />
                   <mssgle:LineSegment
-                    End="131.333351090549,38.700001319845" />
+                    End="-99.6666777307788,74.93333066351" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="50.4253278890247,23.920875292024,30.4826953125,9.7490234375"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
+        <GroupLayout
+          Text="cw7"
+          ParentId="Package"
+          HeaderHeight="43"
+          IsExpanded="True"
+          PanelSize="614,604"
+          Size="614,647"
+          Id="98fca4d6-3cde-4cf6-ae3f-34082cbbbf92"
+          TopLeft="452.666664526694,201.847617697641">
+          <GroupLayout.ChildrenIds>
+            <s:String>Package\cw7_nieistnieje</s:String>
+            <s:String>Package\truncate</s:String>
+            <s:String>Package\cw7</s:String>
+            <s:String>Package\cw7_istnieje_plik</s:String>
+            <s:String>Package.PrecedenceConstraints[Constraint]</s:String>
+            <s:String>Package.PrecedenceConstraints[Constraint 1]</s:String>
+            <s:String>Package\Send Mail Task</s:String>
+            <s:String>Package.PrecedenceConstraints[Constraint 6]</s:String>
+            <s:String>Package.PrecedenceConstraints[Constraint 5]</s:String>
+            <s:String>Package.PrecedenceConstraints[Constraint 2]</s:String>
+            <s:String>Package\AUDIT_TABLE_START</s:String>
+            <s:String>Package.PrecedenceConstraints[Constraint 3]</s:String>
+            <s:String>Package\AUDIT_TABLE_END</s:String>
+            <s:String>Package.PrecedenceConstraints[Constraint 4]</s:String>
+            <s:String>Package.PrecedenceConstraints[Constraint 7]</s:String>
+          </GroupLayout.ChildrenIds>
+        </GroupLayout>
       </GraphLayout>
     </LayoutInfo>
   </Package>
@@ -8884,7 +9261,7 @@ EmailAddress = ? </property>
     design-time-name="Package\cw2">
     <LayoutInfo>
       <GraphLayout
-        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="152,42"
           Id="Package\cw2\OLE DB Source"
@@ -8924,7 +9301,9 @@ EmailAddress = ? </property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -8946,7 +9325,9 @@ EmailAddress = ? </property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -8980,7 +9361,9 @@ EmailAddress = ? </property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -9014,7 +9397,9 @@ EmailAddress = ? </property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -10045,136 +10430,130 @@ EmailAddress = ? </property>
     </Properties>
   </PipelineComponentMetadata>
   <TaskHost
-    design-time-name="Package\cw7_nieistnieje">
+    design-time-name="Package\cw7_istnieje_plik">
     <LayoutInfo>
       <GraphLayout
-        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
-        <NodeLayout
-          Size="159,43"
-          Id="Package\cw7_nieistnieje\Data Conversion"
-          TopLeft="301.999997138977,165.615381929737" />
-        <NodeLayout
-          Size="138,43"
-          Id="Package\cw7_nieistnieje\XML Source"
-          TopLeft="318.230766243659,53" />
-        <EdgeLayout
-          Id="Package\cw7_nieistnieje.Paths[record]"
-          TopLeft="384.315381691318,96.2">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,69.4153819297369"
-              Start="0,0"
-              End="0,61.9153819297369">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,61.9153819297369" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="171,43"
-          Id="Package\cw7_nieistnieje\OLE DB Command"
-          TopLeft="206,362.615376043778" />
-        <NodeLayout
-          Size="156,43"
-          Id="Package\cw7_nieistnieje\Derived Column"
-          TopLeft="447.916649201264,363.755735064875" />
-        <NodeLayout
-          Size="115,43"
-          Id="Package\cw7_nieistnieje\Lookup"
-          TopLeft="319.333329911033,252.61537927733" />
+        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="177,42"
-          Id="Package\cw7_nieistnieje\OLE DB Destination"
-          TopLeft="437,442" />
+          Id="Package\cw7_istnieje_plik\OLE DB Destination"
+          TopLeft="305,291.84210261876" />
+        <NodeLayout
+          Size="159,43"
+          Id="Package\cw7_istnieje_plik\Data Conversion"
+          TopLeft="316.249999720604,136.736841218789" />
+        <NodeLayout
+          Size="158,42"
+          Id="Package\cw7_istnieje_plik\Derived Column"
+          TopLeft="315.499999664724,215.421050881168" />
+        <NodeLayout
+          Size="138,43"
+          Id="Package\cw7_istnieje_plik\XML Source"
+          TopLeft="327.249999273569,55" />
         <EdgeLayout
-          Id="Package\cw7_nieistnieje.Paths[Derived Column Output]"
-          TopLeft="525.708324600632,406.755735064875">
+          Id="Package\cw7_istnieje_plik.Paths[record]"
+          TopLeft="395.999999497086,98">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,35.244264935125"
+              EndConnector="0,38.736841218789"
               Start="0,0"
-              End="0,27.744264935125">
+              End="0,31.236841218789">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,27.744264935125" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\cw7_nieistnieje.Paths[Data Conversion Output]"
-          TopLeft="379.166663525005,208.615381929737">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,43.999997347593"
-              Start="0,0"
-              End="0,36.499997347593">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,36.499997347593" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\cw7_nieistnieje.Paths[Lookup No Match Output]"
-          TopLeft="376.833329911033,295.61537927733">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="149.083319290231,68.140355787545"
-              Start="0,0"
-              End="149.083319290231,60.640355787545">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,30.0701778937725" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,30.0701778937725"
-                    Point2="0,34.0701778937725"
-                    Point3="4,34.0701778937725" />
-                  <mssgle:LineSegment
-                    End="145.083319290231,34.0701778937725" />
-                  <mssgle:CubicBezierSegment
-                    Point1="145.083319290231,34.0701778937725"
-                    Point2="149.083319290231,34.0701778937725"
-                    Point3="149.083319290231,38.0701778937725" />
-                  <mssgle:LineSegment
-                    End="149.083319290231,60.640355787545" />
+                    End="0,31.236841218789" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
             <mssgm:EdgeLabel
-              BoundingBox="18.7352729263655,39.0701778937725,111.6127734375,11.609375"
+              BoundingBox="0,0,0,0"
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
+        <EdgeLayout
+          Id="Package\cw7_istnieje_plik.Paths[Derived Column Output]"
+          TopLeft="393.999999832362,257.421050881168">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,34.4210517375921"
+              Start="0,0"
+              End="0,26.9210517375921">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,26.9210517375921" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\cw7_istnieje_plik.Paths[Data Conversion Output]"
+          TopLeft="395.124999692664,179.736841218789">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,35.684209662379"
+              Start="0,0"
+              End="0,28.184209662379">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,28.184209662379" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </TaskHost>
+  <TaskHost
+    design-time-name="Package\cw7_nieistnieje">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        <NodeLayout
+          Size="177,42"
+          Id="Package\cw7_nieistnieje\OLE DB Destination"
+          TopLeft="437,442" />
+        <NodeLayout
+          Size="159,43"
+          Id="Package\cw7_nieistnieje\Data Conversion"
+          TopLeft="301.999997138977,165.615381929737" />
+        <NodeLayout
+          Size="171,43"
+          Id="Package\cw7_nieistnieje\OLE DB Command"
+          TopLeft="206,362.615376043778" />
+        <NodeLayout
+          Size="138,43"
+          Id="Package\cw7_nieistnieje\XML Source"
+          TopLeft="318.230766243659,53" />
+        <NodeLayout
+          Size="115,43"
+          Id="Package\cw7_nieistnieje\Lookup"
+          TopLeft="319.333329911033,252.61537927733" />
+        <NodeLayout
+          Size="156,43"
+          Id="Package\cw7_nieistnieje\Derived Column"
+          TopLeft="447.916649201264,363.755735064875" />
         <EdgeLayout
           Id="Package\cw7_nieistnieje.Paths[Lookup Match Output]"
           TopLeft="358.9999965777,295.61537927733">
@@ -10211,94 +10590,112 @@ EmailAddress = ? </property>
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
-      </GraphLayout>
-    </LayoutInfo>
-  </TaskHost>
-  <TaskHost
-    design-time-name="Package\cw7_istnieje_plik">
-    <LayoutInfo>
-      <GraphLayout
-        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
-        <NodeLayout
-          Size="177,42"
-          Id="Package\cw7_istnieje_plik\OLE DB Destination"
-          TopLeft="305,291.84210261876" />
-        <NodeLayout
-          Size="159,43"
-          Id="Package\cw7_istnieje_plik\Data Conversion"
-          TopLeft="316.249999720604,136.736841218789" />
-        <NodeLayout
-          Size="158,42"
-          Id="Package\cw7_istnieje_plik\Derived Column"
-          TopLeft="315.499999664724,215.421050881168" />
-        <NodeLayout
-          Size="138,43"
-          Id="Package\cw7_istnieje_plik\XML Source"
-          TopLeft="327.249999273569,55" />
         <EdgeLayout
-          Id="Package\cw7_istnieje_plik.Paths[record]"
-          TopLeft="395.999999497086,98">
+          Id="Package\cw7_nieistnieje.Paths[Derived Column Output]"
+          TopLeft="525.708324600632,406.755735064875">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,38.736841218789"
+              EndConnector="0,35.244264935125"
               Start="0,0"
-              End="0,31.236841218789">
+              End="0,27.744264935125">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,31.236841218789" />
+                    End="0,27.744264935125" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\cw7_istnieje_plik.Paths[Derived Column Output]"
-          TopLeft="393.999999832362,257.421050881168">
+          Id="Package\cw7_nieistnieje.Paths[Data Conversion Output]"
+          TopLeft="379.166663525005,208.615381929737">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,34.4210517375921"
+              EndConnector="0,43.999997347593"
               Start="0,0"
-              End="0,26.9210517375921">
+              End="0,36.499997347593">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,26.9210517375921" />
+                    End="0,36.499997347593" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\cw7_istnieje_plik.Paths[Data Conversion Output]"
-          TopLeft="395.124999692664,179.736841218789">
+          Id="Package\cw7_nieistnieje.Paths[record]"
+          TopLeft="384.315381691318,96.2">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,35.684209662379"
+              EndConnector="0,69.4153819297369"
               Start="0,0"
-              End="0,28.184209662379">
+              End="0,61.9153819297369">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,28.184209662379" />
+                    End="0,61.9153819297369" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\cw7_nieistnieje.Paths[Lookup No Match Output]"
+          TopLeft="376.833329911033,295.61537927733">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="149.083319290231,68.140355787545"
+              Start="0,0"
+              End="149.083319290231,60.640355787545">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,30.0701778937725" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,30.0701778937725"
+                    Point2="0,34.0701778937725"
+                    Point3="4,34.0701778937725" />
+                  <mssgle:LineSegment
+                    End="145.083319290231,34.0701778937725" />
+                  <mssgle:CubicBezierSegment
+                    Point1="145.083319290231,34.0701778937725"
+                    Point2="149.083319290231,34.0701778937725"
+                    Point3="149.083319290231,38.0701778937725" />
+                  <mssgle:LineSegment
+                    End="149.083319290231,60.640355787545" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="18.7352729263655,39.0701778937725,111.6127734375,11.609375"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
