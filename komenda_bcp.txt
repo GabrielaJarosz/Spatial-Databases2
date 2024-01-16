@@ -1,3 +1,0 @@
-bcp customers.dbo.customers_403548 format nul -S "DESKTOP-IE07D0F\GJ0804" -T -x -c -f "D:\studia\sem2_mgr\BDP2\skrypt\FormatFile.fmt" -t
-
-bcp customers.dbo.customers_403548 in "D:\studia\sem2_mgr\BDP2\skrypt\PROCESSED\20240114111518_InternetSales_new.csv" -S "DESKTOP-IE07D0F\GJ0804" -T -c -t, -F 2
